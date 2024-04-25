@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tacosmigos_menu>
+	<food>
+		<name>Mexican Tacos</name>
+		<price>$5.95</price>
+		<desc>s inspired by the original and loaded with more of everything you love, like more seasoned beef, more freshly</desc>
+		<calories>650</calories>
+	</food>
+	<food>
+		<name>Chicken Tacos</name>
+		<price>$7.95</price>
+		<desc>Crispy chicken strip, crisp shredded lettuce, freshly grated cheddar cheese with a choice of creamy ranch sauce</desc>
+		<calories>900</calories>
+	</food>
+	<food>
+		<name>Asada Tacos</name>
+		<price>$8.95</price>
+		<desc>Spicy tacos original with so much taste. Beef meat freshly made at Migos</desc>
+		<calories>900</calories>
+	</food>
+	<food>
+		<name>Birria Tacos</name>
+		<price>$4.50</price>
+		<desc>This hearty taco includes freshly grated cheddar cheese and signature creamy Queso Blanco grilled between two flour tortillas</desc>
+		<calories>600</calories>
+	</food>
+	<food>
+		<name>Carnita Tacos</name>
+		<price>$6.95</price>
+		<desc>reshly grilled, marinated chicken, topped with fresh diced onions, chopped cilantro.</desc>
+		<calories>950</calories>
+	</food>
+</tacosmigos_menu>
